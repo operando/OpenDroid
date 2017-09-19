@@ -4,6 +4,11 @@ Chrome Extension - Open another version of Android OpenGrok.
 
 ![](./arts/OpenDroid.gif)
 
+
+## Install
+
+Download the crx binary from [Releases](https://github.com/operando/OpenDroid/releases). To install the extension, open the [chrome://extensions](chrome://extensions) page and drag and drop the `.crx` file from the Downloads.
+
 ### License
 
 ```
